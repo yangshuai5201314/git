@@ -12,6 +12,9 @@ public class GitApplicationTests {
     @Test
     public void contextLoads () {
         System.out.println("=++++++++_+=");
+        int a=10;
+        int b=19;
+        System.out.println(a+b);
 
     }
 
