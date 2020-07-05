@@ -17,10 +17,6 @@ public class GitApplicationTests {
         System.out.println(a+b);
         System.out.println(a-b);
         System.out.println("hahahah");
-        int q=0;
     }
 
-    public static void main (String[] args) {
-
-    }
 }
