@@ -17,12 +17,12 @@ public class GitApplicationTests {
         System.out.println(a+b);
         System.out.println(a-b);
         System.out.println("hahahah");
-<<<<<<< Updated upstream
-=======
+
+
         int q=0;
 
 
->>>>>>> Stashed changes
+
     }
 
 }
