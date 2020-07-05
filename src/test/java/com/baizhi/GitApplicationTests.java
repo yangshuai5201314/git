@@ -20,4 +20,7 @@ public class GitApplicationTests {
         int q=0;
     }
 
+    public static void main (String[] args) {
+
+    }
 }
